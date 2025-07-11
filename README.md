@@ -15,17 +15,17 @@ This project aims to simulate real-world memory behavior on a low-level logic si
 
 ## Features
 
-- 🧮 **16 Bytes of Memory** (128 bits)
-- ✍️ **Write Operation** via input bus and write-enable signal
-- 📖 **Read Operation** via address bus and read-enable
-- 🧠 **Addressed by a 4-bit Bus**
-- 🔁 Built using **D Flip-Flops**
-- 📱 Created on **Logic Simulator Pro** (Android)
-- ⏱ Optional **Clocked operation** (can be synchronous)
+-  **16 Bytes of Memory** (128 bits)
+-  **Write Operation** via input bus and write-enable signal
+-  **Read Operation** via address bus and read-enable
+-  **Addressed by a 4-bit Bus**
+-  Built using **D Flip-Flops**
+-  Created on **Logic Simulator Pro** (Android)
+-  Optional **Clocked operation** (can be synchronous)
 
 ---
 
-## 🧩 Components Used
+##  Components Used
 
 - D Flip-Flops
 - 4-to-16 Decoder (for addressing)
@@ -36,7 +36,7 @@ This project aims to simulate real-world memory behavior on a low-level logic si
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Open Logic Simulator Pro** on your Android device.
 2. **Load the project file** (or recreate it using the diagram).
@@ -44,20 +44,20 @@ This project aims to simulate real-world memory behavior on a low-level logic si
 4. Use `Write Enable` to write data into memory.
 5. Use `Read Enable` to read data from the selected address.
 
-💡 *Make sure to toggle the correct control signals to avoid race conditions.*
+ *Make sure to toggle the correct control signals to avoid race conditions.*
 
 ---
 
-## 🧠 Future Work
+##  Future Work
 
-- ✅ Expand RAM size to 64 or 256 bytes
-- 🔗 Connect with a custom-built **8-bit CPU**
-- 🧮 Add support for bi-directional data bus
-- 💾 Build a simple memory controller module
+-  Expand RAM size to 64 or 256 bytes
+-  Connect with a custom-built **8-bit CPU**
+-  Add support for bi-directional data bus
+-  Build a simple memory controller module
 
 ---
 
-## 🙋 Author
+##  Author
 
 **Created by:** *Abhinav Sharma*  
 **Built with:** Logic Simulator Pro (Android)  
